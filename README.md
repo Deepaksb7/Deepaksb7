@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building a responsive React portfolio and small apps using APIs.<br>Open-source projects or beginner-friendly hackathons.<br>To land an Internship or a Job.<br>Next js fundamentals.<br>Switching from React to Next.js and making apps fast and user-friendly.<br>I created spotify clone with raw HTML, CSS, JavaScript.
+🔭Building a responsive React portfolio and small apps using APIs.<br>👯Open-source projects or beginner-friendly hackathons.<br>🤔To land an Internship or a Job.<br>🌱Next js fundamentals.<br>💬Switching from React to Next.js and making apps fast and user-friendly.<br>⚡I created spotify clone with raw HTML, CSS, JavaScript.
 
 
 ## 🌐 Socials:
